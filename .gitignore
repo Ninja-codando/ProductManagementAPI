@@ -1,0 +1,8 @@
+bin/
+obj/
+products.db
+products.db-shm
+products.db-wal
+*.swp
+*~
+.DS_Store
